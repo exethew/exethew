@@ -1,4 +1,3 @@
 <div align="center">
-![exethew terminal](terminal.svg)
- 
+  <img src="terminal.svg" alt="exethew terminal" />
 </div>
